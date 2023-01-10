@@ -1,4 +1,8 @@
+
 GAME CONTENTS:
+
+created in 2021
+
 * A main menu is displayed when the game starts.
 * A new Level 1 is generated when "New" is pressed on the main menu.
 * The game is laoded from the same level where it was paused, when "Load" is pressed   on the main menu.
